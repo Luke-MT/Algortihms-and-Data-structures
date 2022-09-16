@@ -1,2 +1,4 @@
 # University
-School project about **sorting algorithms** and main operations on data structures such as **stacks**, **binary search trees** and **hash tables**.
+This is the repository with all my university projects
+
+Last update: 09/16/22
